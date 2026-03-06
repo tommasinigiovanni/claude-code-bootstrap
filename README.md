@@ -212,10 +212,10 @@ PRs welcome. If you've found patterns that make the wizard better — different 
 
 ## License
 
-MIT — use it, fork it, adapt it.
+Apache 2.0 — use it, fork it, adapt it.
 
 ---
 
-**Author:** [Giovanni Tommasini](https://giovannitommasini.it) · [Evoseed](https://evoseed.io) / aiFabbric
+**Author:** [Giovanni Tommasini](https://giovannitommasini.it) · [evoseed](https://evoseed.io/eng) / [AI Fabric](https://aifabric.it/en)
 
 Built with the same spec-driven approach this repo teaches. 🔄
